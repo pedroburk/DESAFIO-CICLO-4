@@ -1,1 +1,7 @@
-export const api = "http://localhost:3001";
+export const ListarPedido =() =>{
+    return(
+        <div>
+            <h1>Lista de Pedidos</h1>
+        </div>
+    )
+}
